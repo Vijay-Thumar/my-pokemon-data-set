@@ -2,7 +2,8 @@
   "name": "Bulbasaur",
   "type": [
     "Grass",
-    "Poison"
+    "Poison",
+    "super cool"
   ],
   "stats": [
     {
